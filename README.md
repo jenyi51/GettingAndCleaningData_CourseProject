@@ -13,6 +13,7 @@ This script first reads the input files:
 * Testing data, including features (UCI HAR Dataset/test/X_test.txt), label(UCI HAR Dataset/test/y_test.txt), and subject (UCI HAR Dataset/test/subject_test.txt). 
 
 Then, it performs the following tasks on the datasets:
+
 1. Appropriately labels the data set with descriptive variable names. 
 2. Merges the training and the test sets to create one data set.
 3. Extracts only the measurements on the mean and standard deviation for each measurement.
