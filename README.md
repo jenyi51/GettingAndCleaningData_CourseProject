@@ -19,3 +19,5 @@ Then, it performs the following tasks on the datasets:
 3. Extracts only the measurements on the mean and standard deviation for each measurement.
 4. Uses descriptive activity names to name the activities in the data set.
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
+
+The script outputs a tidy dataset, names "tidy_data.txt", which can be read in using read.table function. 
